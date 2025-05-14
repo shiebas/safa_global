@@ -9,7 +9,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'NeetieSister$safa_global',
         'USER': 'NeetieSister',
-        'PASSWORD': 'neetie12345',
+        'PASSWORD': '***********',
         'HOST': 'NeetieSister.mysql.pythonanywhere-services.com',
         'PORT': '3306',
         'OPTIONS': {
